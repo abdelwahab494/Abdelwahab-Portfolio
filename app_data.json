@@ -59,15 +59,9 @@
       "date": "Apr 2024 - Present",
       "location": "Remote | Self-employed",
       "detailes": [
-        {
-          "text": "Implemented real-time data visualization using custom widgets."
-        },
-        {
-          "text": "Used APIs and Supabase for backend services."
-        },
-        {
-          "text": "Delivered clean, maintainable, and scalable code."
-        }
+        "Implemented real-time data visualization using custom widgets.",
+        "Used APIs and Supabase for backend services.",
+        "Delivered clean, maintainable, and scalable code."
       ]
     },
     {
@@ -75,18 +69,10 @@
       "date": "Aug 2024 - Jun 2025",
       "location": "Faculty of Engineering | Kafr El Sheikh University",
       "detailes": [
-        {
-          "text": "Developed a non-invasive blood glucose monitoring mobile app using Flutter."
-        },
-        {
-          "text": "Connected the app with real-time sensor data via Bluetooth/ESP32."
-        },
-        {
-          "text": "Displayed dynamic charts and alerts for patient monitoring."
-        },
-        {
-          "text": "Collaborated with hardware and AI teams to ensure system integration."
-        }
+        "Developed a non-invasive blood glucose monitoring mobile app using Flutter.",
+        "Connected the app with real-time sensor data via Bluetooth/ESP32.",
+        "Displayed dynamic charts and alerts for patient monitoring.",
+        "Collaborated with hardware and AI teams to ensure system integration."
       ]
     },
     {
@@ -94,18 +80,10 @@
       "date": "Oct 2024 - May 2025",
       "location": "EYOUTH | Digital Egypt Pioneers Initiative (DEPI) | Tanta, Egypt",
       "detailes": [
-        {
-          "text": "Participated in a national upskilling program focused on data science and analytics."
-        },
-        {
-          "text": "Worked on a sales forecasting project using Python, Pandas, and machine learning techniques."
-        },
-        {
-          "text": "Gained experience in collaborative teamwork, problem-solving, and project-based learning."
-        },
-        {
-          "text": "Applied version control using Git and presented findings in a real-world business context."
-        }
+        "Participated in a national upskilling program focused on data science and analytics.",
+        "Worked on a sales forecasting project using Python, Pandas, and machine learning techniques.",
+        "Gained experience in collaborative teamwork, problem-solving, and project-based learning.",
+        "Applied version control using Git and presented findings in a real-world business context."
       ]
     }
   ]
