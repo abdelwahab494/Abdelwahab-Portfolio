@@ -1,0 +1,112 @@
+{
+  "linkes": {
+    "LinkedIn": "https://www.linkedin.com/in/abd-el-wahab-mohamed/",
+    "Github": "https://github.com/abdelwahab494",
+    "Facebook": "https://www.facebook.com/abdulwahab.elnagar",
+    "Whatsapp": "https://wa.me/qr/N3FIRZCFIIUAI1",
+    "Instagram": "https://www.instagram.com/_abd_elwahab_?igsh=d3l5ZnRlazkyb2V1",
+    "Resume": "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images//Abdelwahab%20Mohamed%20Abdelwahab%20-%20Flutter%20Developer%20CV.pdf"
+  },
+  "works": [
+    {
+      "imageComment": "Graduation Project",
+      "projectTitle": "GlucoMate - Mobile App",
+      "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
+      "projectYear": "2025",
+      "projectRole": "Full-stack Flutter Developer",
+      "url": "https://github.com/abdelwahab494/GlucoMate.git",
+      "images": [
+        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%201/work1.PNG",
+        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%201/work2.PNG",
+        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%201/work3.PNG",
+        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%201/work4.PNG"
+      ]
+    },
+    {
+      "imageComment": "Freelance",
+      "projectTitle": "OpenFashion - Mobile App",
+      "projectDescription": "Created OpenFashion app, a platform for selling clothes and accessories. The app includes a section for adding delivery addresses and a secure option to add credit card details for online payments.",
+      "projectYear": "2025",
+      "projectRole": "Front-end Flutter Developer",
+      "url": "https://github.com/abdelwahab494/Open-Fashion.git",
+      "images": [
+        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%202/work1.PNG",
+        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%202/work2.PNG",
+        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%202/work3.PNG",
+        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%202/work4.PNG",
+        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%202/work5.PNG"
+      ]
+    }
+  ],
+  "capabilities": [
+    "FLUTTER",
+    "DART",
+    "STATE MANAGEMENT",
+    "SUPABASE",
+    "RESPONSIVE UI",
+    "GETX / PROVIDER",
+    "SQLITE",
+    "UI/UX DESIGN",
+    "PYTHON",
+    "DATA SCIENCE",
+    "HTML",
+    "CSS",
+    "GIT"
+  ],
+  "experience": [
+    {
+      "title": "Freelance Flutter Developer",
+      "date": "Apr 2024 - Present",
+      "location": "Remote | Self-employed",
+      "detailes": [
+        {
+          "text": "Implemented real-time data visualization using custom widgets."
+        },
+        {
+          "text": "Used APIs and Supabase for backend services."
+        },
+        {
+          "text": "Delivered clean, maintainable, and scalable code."
+        }
+      ]
+    },
+    {
+      "title": "Flutter Developer - Graduation Project",
+      "date": "Aug 2024 - Jun 2025",
+      "location": "Faculty of Engineering | Kafr El Sheikh University",
+      "detailes": [
+        {
+          "text": "Developed a non-invasive blood glucose monitoring mobile app using Flutter."
+        },
+        {
+          "text": "Connected the app with real-time sensor data via Bluetooth/ESP32."
+        },
+        {
+          "text": "Displayed dynamic charts and alerts for patient monitoring."
+        },
+        {
+          "text": "Collaborated with hardware and AI teams to ensure system integration."
+        }
+      ]
+    },
+    {
+      "title": "Data Science Intern",
+      "date": "Oct 2024 - May 2025",
+      "location": "EYOUTH | Digital Egypt Pioneers Initiative (DEPI) | Tanta, Egypt",
+      "detailes": [
+        {
+          "text": "Participated in a national upskilling program focused on data science and analytics."
+        },
+        {
+          "text": "Worked on a sales forecasting project using Python, Pandas, and machine learning techniques."
+        },
+        {
+          "text": "Gained experience in collaborative teamwork, problem-solving, and project-based learning."
+        },
+        {
+          "text": "Applied version control using Git and presented findings in a real-world business context."
+        }
+      ]
+    }
+  ]
+}
