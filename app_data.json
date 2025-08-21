@@ -37,20 +37,6 @@
         "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%202/work5.PNG"
       ]
     },
-    {
-      "imageComment": "Graduation Project",
-      "projectTitle": "GlucoMate - Mobile App",
-      "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
-      "projectYear": "2025",
-      "projectRole": "Full-stack Flutter Developer",
-      "url": "https://github.com/abdelwahab494/GlucoMate.git",
-      "images": [
-        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%201/work1.PNG",
-        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%201/work2.PNG",
-        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%201/work3.PNG",
-        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%201/work4.PNG"
-      ]
-    },
   ],
   "capabilities": [
     "FLUTTER",
