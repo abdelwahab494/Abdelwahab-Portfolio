@@ -42,6 +42,7 @@
     "FLUTTER",
     "DART",
     "STATE MANAGEMENT",
+    "BLOC/CUBIT",
     "PROVIDER",
     "RIVERPOD",
     "SUPABASE",
