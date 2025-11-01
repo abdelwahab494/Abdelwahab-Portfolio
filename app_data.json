@@ -5,9 +5,9 @@
     "Facebook": "https://www.facebook.com/abdulwahab.elnagar",
     "Whatsapp": "https://wa.me/201061288457",
     "Instagram": "https://www.instagram.com/_abd_elwahab_?igsh=d3l5ZnRlazkyb2V1",
-    "Resume": "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images//Abdelwahab%20Mohamed%20Abdelwahab%20-%20Flutter%20Developer%20CV.pdf",
-    "Image1": "",
-    "Image2": ""
+    "Resume": "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/Abdelwahab%20Mohamed%20Abdelwahab%20-%20Flutter%20Developer%20CV.pdf",
+    "Home Image": "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/images/home.jpg",
+    "About Image": "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/images/about.jpg"
   },
   "works": [
     {
@@ -18,10 +18,10 @@
       "projectRole": "Full-stack Flutter Developer",
       "url": "https://github.com/abdelwahab494/GlucoMate.git",
       "images": [
-        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%201/work1.PNG",
-        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%201/work2.PNG",
-        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%201/work3.PNG",
-        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%201/work4.PNG"
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work1/work1.PNG",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work1/work2.PNG",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work1/work3.PNG",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work1/work4.PNG"
       ]
     },
     {
@@ -32,11 +32,11 @@
       "projectRole": "Front-end Flutter Developer",
       "url": "https://github.com/abdelwahab494/Open-Fashion.git",
       "images": [
-        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%202/work1.PNG",
-        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%202/work2.PNG",
-        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%202/work3.PNG",
-        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%202/work4.PNG",
-        "https://dsyzfqddbgiqtobxctrt.supabase.co/storage/v1/object/public/images/work%202/work5.PNG"
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work2/work1.PNG",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work2/work2.PNG",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work2/work3.PNG",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work2/work4.PNG",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work2/work5.PNG"
       ]
     }
   ],
