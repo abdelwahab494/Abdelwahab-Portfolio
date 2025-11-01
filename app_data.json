@@ -92,13 +92,13 @@
       ]
     }
   ],
-  "Content": {
-    "Name": "Abdelwahab MO.",
-    "Home Breef": "An Egypt-based Flutter developer passionate about building high-performance, cross-platform mobile applications with beautiful and user-friendly interfaces.",
-    "Projects Feild": "Flutter Development",
-    "About Header": "I am a Flutter developer based in Egypt. Has Electrical & Computer Engineering background.",
-    "About Content": "I'm a Flutter developer from Egypt with a background in Electrical and Computer Engineering. I specialize in building cross-platform mobile apps with smooth UI and great user experience. In my free time, I enjoy watching movies and series, playing Mech Arena, and traveling. Always eager to learn and grow in the mobile development field.",
-    "Capabilities": "I specialize in Flutter development, crafting responsive and scalable cross-platform apps. I'm always expanding my skills in mobile UI/UX, state management, and backend integration to deliver seamless app experiences.",
-    "Email": "abdelwahab.mohamedd743@gmail.com"
+  "content": {
+    "name": "Abdelwahab MO.",
+    "home breef": "An Egypt-based Flutter developer passionate about building high-performance, cross-platform mobile applications with beautiful and user-friendly interfaces.",
+    "projects feild": "Flutter Development",
+    "about header": "I am a Flutter developer based in Egypt. Has Electrical & Computer Engineering background.",
+    "about content": "I'm a Flutter developer from Egypt with a background in Electrical and Computer Engineering. I specialize in building cross-platform mobile apps with smooth UI and great user experience. In my free time, I enjoy watching movies and series, playing Mech Arena, and traveling. Always eager to learn and grow in the mobile development field.",
+    "capabilities": "I specialize in Flutter development, crafting responsive and scalable cross-platform apps. I'm always expanding my skills in mobile UI/UX, state management, and backend integration to deliver seamless app experiences.",
+    "email": "abdelwahab.mohamedd743@gmail.com"
   }
 }
