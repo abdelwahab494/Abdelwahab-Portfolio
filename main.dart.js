@@ -45283,7 +45283,7 @@ A.aaa.prototype={
 $2(a,b){var s,r,q,p,o,n=this,m=null,l="CONTACT ME",k="assets/icons/linkedin.svg",j="assets/icons/github.svg",i=b instanceof A.dU
 if(i||b instanceof A.eX){s=n.b
 r=$.ee()
-q=A.dk(B.B,A.a5(r.a.toUpperCase(),m,m,m,A.cA().$3$color$fontSize$height(B.f,95,1),m,m),B.l,B.af)
+q=A.dk(B.B,A.a5(("HI, I AM \n"+r.a).toUpperCase(),m,m,m,A.cA().$3$color$fontSize$height(B.f,95,1),m,m),B.l,B.af)
 r=A.a5(r.b,m,m,m,A.al().$2$color$fontSize(B.H,15),m,m)
 p=$.jw()
 o=t.p
@@ -45294,7 +45294,7 @@ s=b.a
 r=s.e
 s=s.a
 q=t.p
-r=A.cF(A.aT(A.b([A.dk(B.B,A.a5(r.a.toUpperCase(),m,m,m,A.cA().$3$color$fontSize$height(B.f,95,1),m,m),B.l,B.af),A.a5(r.b,m,m,m,A.al().$2$color$fontSize(B.H,15),m,m),B.bt,A.dk(B.B,A.bH(A.b([new A.iL(new A.aa8(n.a),l,B.e2,m),B.P,new A.c3(s.a,k,!0,m),B.P,new A.c3(s.b,j,!0,m)],q),B.q,B.m,B.o,0),B.l,B.af)],q),B.z,B.cR,B.o,0),m,i/3)
+r=A.cF(A.aT(A.b([A.dk(B.B,A.a5(("HI, I AM \n"+r.a).toUpperCase(),m,m,m,A.cA().$3$color$fontSize$height(B.f,95,1),m,m),B.l,B.af),A.a5(r.b,m,m,m,A.al().$2$color$fontSize(B.H,15),m,m),B.bt,A.dk(B.B,A.bH(A.b([new A.iL(new A.aa8(n.a),l,B.e2,m),B.P,new A.c3(s.a,k,!0,m),B.P,new A.c3(s.b,j,!0,m)],q),B.q,B.m,B.o,0),B.l,B.af)],q),B.z,B.cR,B.o,0),m,i/3)
 p=A.c7(20)
 return A.bx(A.xV(B.mv,A.b([r,A.bx(A.ez(A.lQ(A.c7(20),A.nM(m,B.cK,s.r,new A.aa9())),m,m),B.l,m,new A.bL(m,m,m,p,m,m,B.M),m,m,B.hq,i/2.7)],q),B.mw,B.mu,30),B.l,m,m,n.c-80,m,B.oG,i)}return B.V},
 $S:31}
@@ -45319,7 +45319,7 @@ J(a){return A.fh(new A.aa5(this),t.G,t.Q)}}
 A.aa5.prototype={
 $2(a,b){var s,r,q,p,o,n,m=null,l="CONTACT ME",k="assets/icons/linkedin.svg",j="assets/icons/github.svg",i=b instanceof A.dU
 if(i||b instanceof A.eX){s=$.ee()
-r=A.dk(B.B,A.a5(s.a.toUpperCase(),m,m,m,A.cA().$3$color$fontSize$height(B.f,55,1),m,m),B.l,B.af)
+r=A.dk(B.B,A.a5(("HI, I AM \n"+s.a).toUpperCase(),m,m,m,A.cA().$3$color$fontSize$height(B.f,55,1),m,m),B.l,B.af)
 s=A.a5(s.b,m,m,m,A.al().$2$color$fontSize(B.H,14),m,m)
 q=$.jw()
 p=t.p
@@ -45327,7 +45327,7 @@ o=A.dk(B.B,A.bH(A.b([new A.iL(new A.aa1(this.a),l,B.e2,m),B.P,new A.c3(q.a,k,!0,
 n=A.c7(8)
 return A.bx(A.aT(A.b([B.aL,A.eP(A.aT(A.b([r,B.cO,s,B.bt,o,B.aL,A.bx(A.ez(A.lQ(A.c7(20),A.nM(m,B.cK,q.r,new A.aa2())),m,m),B.l,m,new A.bL(m,m,m,n,m,m,B.M),m,m,m,1/0),B.b9],p),B.z,B.cR,B.o,0),i)],p),B.z,B.aV,B.o,0),B.l,m,m,m,m,B.c0,1/0)}if(b instanceof A.dT){i=b.a
 s=i.e
-r=A.dk(B.B,A.a5(s.a.toUpperCase(),m,m,m,A.cA().$3$color$fontSize$height(B.f,55,1),m,m),B.l,B.af)
+r=A.dk(B.B,A.a5(("HI, I AM \n"+s.a).toUpperCase(),m,m,m,A.cA().$3$color$fontSize$height(B.f,55,1),m,m),B.l,B.af)
 s=A.a5(s.b,m,m,m,A.al().$2$color$fontSize(B.H,14),m,m)
 i=i.a
 q=t.p
