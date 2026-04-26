@@ -40,6 +40,23 @@
       ]
     },
     {
+      "imageComment": "Practice Project",
+      "projectTitle": "Tasky - Mobile App",
+      "projectDescription": "Built Tasky, a productivity app designed to help users manage daily tasks and stay organized more efficiently. The app allows users to create, update, prioritize, and track tasks with a clean and intuitive interface. It also includes a dedicated notes section for writing quick thoughts, reminders, and personal notes, making it easier to manage both tasks and ideas in one place. Tasky was built as a practice project to strengthen app architecture skills, state management, and local data handling while focusing on creating a smooth and user-friendly productivity experience.",
+      "projectYear": "2026",
+      "projectRole": "Flutter Developer",
+      "url": "https://github.com/abdelwahab494/Tasky.git",
+      "images": [
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work4/work1.png",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work4/work2.png",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work4/work3.png",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work4/work4.png",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work4/work5.png",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work4/work6.png",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work4/work7.png"
+      ]
+    },
+    {
       "imageComment": "Freelance",
       "projectTitle": "OpenFashion - Mobile App",
       "projectDescription": "Created OpenFashion app, a platform for selling clothes and accessories. The app includes a section for adding delivery addresses and a secure option to add credit card details for online payments.",
