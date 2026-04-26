@@ -11,6 +11,21 @@
   },
   "works": [
     {
+      "imageComment": "Personal Project",
+      "projectTitle": "Trip Genie - Mobile App",
+      "projectDescription": "Built Trip Genie, an AI-powered travel assistant designed to help tourists explore cities and governorates across Egypt. The app creates smart travel plans based on the selected destination, offering personalized itineraries, visit recommendations, and helpful travel tips. It also provides detailed information about landmarks, attractions, and popular places in each governorate, making it easier for travelers to discover Egypt in a more organized and interactive way.",
+      "projectYear": "2026",
+      "projectRole": "Full-stack Flutter Developer",
+      "url": "https://github.com/abdelwahab494/Trip-Genie.git",
+      "images": [
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work3/work1.png",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work3/work2.png",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work3/work3.png",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work3/work4.png",
+        "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/work3/work5.png"
+      ]
+    },
+    {
       "imageComment": "Graduation Project",
       "projectTitle": "GlucoMate - Mobile App",
       "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
